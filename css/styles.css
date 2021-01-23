@@ -10095,6 +10095,7 @@ p.lead {
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
+  text-decoration: none;
 }
 .social-icons .social-icon:last-child {
   margin-right: 0;
@@ -10132,4 +10133,8 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+
+.academic-icon {
+font-size: larger;
 }
