@@ -10133,3 +10133,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.fa-scholar {
+  content: url('/assets/img/google-scholar.svg');
+  height: 1em;
+  width: auto;
+}
